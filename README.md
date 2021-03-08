@@ -9,7 +9,7 @@
    The Home Page has a nav-bar which comprises of Algorithms,Data Structures and To-do List.
    
   
-  ![alt text](https://github.com/hrudai2002/Cp-Handbook/blob/main/Home%20Page.png)
+  ![alt text](https://github.com/hrudai2002/Cp-Handbook/blob/main/CP_Home.gif)
    
   Data Structures:
   
@@ -19,7 +19,7 @@
   ![alt txt](https://github.com/hrudai2002/Cp-Handbook/blob/main/Algorithms.png)
   
   TO-DO List:
-  ![alt txt](https://github.com/hrudai2002/Cp-Handbook/blob/main/TO-DO%20List.png)
+  ![alt txt](https://github.com/hrudai2002/Cp-Handbook/blob/main/todolist.gif)
    
    
 
